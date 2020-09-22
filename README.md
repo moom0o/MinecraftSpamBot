@@ -4,7 +4,7 @@ Powerful minecraft spambot useful for testing anti bot solutions.
 # How to use?
 <br>Make sure nodejs is installed for your operating system.
 <br>Edit config.json
-<br>Open a terminal in that folder and run `node index.js`
+<br>Open a terminal in that folder and run `npm install` then `node index.js`
 
 # Config
 
